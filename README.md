@@ -9,7 +9,7 @@ After I built my first website following the lead of the course at Gateway Techn
 
 I chose to build a website about our Dalmatians.
 
-With alot of HTML and some CSS I biult multiple pages, added images, clickable links, an audio, a video and a couple of alerts (I wonder if you'll notice them). I am proud of the work I did here but I am also aware that it still needs work with the CSS and the images.
+With alot of HTML and some CSS I built multiple pages, added images, clickable links, an audio, a video and a couple of alerts (I wonder if you'll notice them). I am proud of the work I did here but I am also aware that it still needs work with the CSS and the images.
 
 I welcome and appreciate any and all comments or help to make this project better.
 
